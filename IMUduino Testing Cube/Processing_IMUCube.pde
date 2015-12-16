@@ -1,4 +1,4 @@
-//      Arduino Disability Orchestra - Arduino Magic Ball
+//      Arduino Disability Orchestra - O-some Team
 /*********************************************************************
   created by Elena Falomo, Alessandro Siino and Paolo Cavagnolo
   This sketch combined with the IMUduino_YawPitchRoll_ThroughSerial gives you an

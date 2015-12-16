@@ -1,6 +1,6 @@
 
 
-//          Arduino Disability Orchestra - Arduino Ball
+//          Arduino Disability Orchestra - O-some Team
 /*********************************************************************
 
 Readapted from the IMUDUINO_Bluetooth_UART_YawPitchRoll example

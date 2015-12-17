@@ -5,8 +5,9 @@
 
 Readapted from the IMUDUINO_Bluetooth_UART_YawPitchRoll example
 Combined with the Processing IMUCube gives you a interface to
-visualise data from the IMU
-We used the function getEulerRad from the FreeIMU library instead.
+visualise data coming from the IMU
+We used the function getEulerRad from the FreeIMU library
+to get the yaw, pitch and roll in radians.
 We didn't enable the Bluethooth. The IMU communicates
 with Processing through Serial
 
@@ -115,5 +116,6 @@ void loop() {
     Serial.print(ypr[1]);
     Serial.print(' ');
     Serial.print(ypr[2]);
+    Serial.print('\n');
 }
 

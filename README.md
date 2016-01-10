@@ -6,11 +6,31 @@
 <table>
   <thead>
     <tr>  
-      <th></th>
-      <th></th>
-      <th></th>
+      <th>Part</th>
+      <th>Quantity</th>
+      <th>LINK</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td align= "center">IMUduino</td>
+      <td align = "center">1</td>
+      <td align = "center">http://femto.io/products/imuduino</td>
+    </tr>
+    <tr>
+      <td align = "center">Dome</td>
+      <td align = "center">2</td>
+      <td align = "center">https://github.com/ADO-ArduinoDisabilityOrchestra/O-some/blob/master/Case/dome.stl</td>
+    </tr>
+    <tr>
+      <td align = "center">Pegs</td>
+      <td align = "center">4</td>
+      <td align = "center">https://github.com/ADO-ArduinoDisabilityOrchestra/O-some/blob/master/Case/peg.stl</td>
+    </tr>
+    <tr>
+      <td align = "center">Ring</td>
+      <td align = "center">1</td>
+      <td align = "center">https://github.com/ADO-ArduinoDisabilityOrchestra/O-some/blob/master/Case/rigid_ring.dxf</td>
+    </tr>
   </tbody>
 </table>

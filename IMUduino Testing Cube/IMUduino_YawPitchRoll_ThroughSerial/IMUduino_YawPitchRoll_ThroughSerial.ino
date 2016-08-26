@@ -101,7 +101,6 @@ void setup() {
   my3IMU.init(true);
   // Initialize the BLE component.
   Serial.println(F("...Initializing BTLE"));
- // BTLEserial.begin();
   Serial.println(F("...Ok! Starting main loop."));
 }
 
